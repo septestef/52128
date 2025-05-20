@@ -1,5 +1,7 @@
 User Analyzer
+
 Este proyecto es un analizador sintáctico para un lenguaje sencillo que define usuarios con atributos. La gramática está implementada en ANTLR4 y puede ser usada para validar y procesar datos estructurados sobre usuarios.
+
 Gramática
 El lenguaje tiene la siguiente estructura:
 •	Uno o más usuarios (user).
