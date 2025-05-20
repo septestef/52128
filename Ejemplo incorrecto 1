@@ -1,0 +1,5 @@
+usuario Ana(
+  edad = 30
+  activo = verdadero
+  saludo = 'Hola';
+)  // Faltan los puntos y coma (;) después de las asignaciones, error sintáctico
