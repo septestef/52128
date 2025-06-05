@@ -1,0 +1,1 @@
+15 8-10 * * * // Ejecuta cuando el minuto es 15 y la hora está entre 8 y 10, cualquier día, mes y día de la semana
