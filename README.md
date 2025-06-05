@@ -24,9 +24,9 @@ Este programa analiza expresiones de cron usando ANTLR4 y Node.js. Realiza anál
 
 ## Uso
 
-1-Escribe la expresión que deseas analizar en el archivo input.txt. //ejemplos validos y no válidos en main
-2- Ejecuta el programa escribiendo en la terminal (Ctrl + ñ) npm start
-3- El programa mostrará en consola:
+1. Escribe la expresión que deseas analizar en el archivo input.txt. //ejemplos validos y no válidos en main
+2. Ejecuta el programa escribiendo en la terminal (Ctrl + ñ) npm start
+3. El programa mostrará en consola:
     - La tabla de tokens/lexemas.
     - El árbol sintáctico.
     - El resultado de la interpretación: una función JavaScript generada y el resultado de ejecutarla con un ejemplo.
