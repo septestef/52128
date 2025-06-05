@@ -1,0 +1,1 @@
+0,30 6-18/2 * 1,7 1-5 // ejecuta la tarea en los minutos 0 y 30, cada 2 horas entre las 6 y las 18, cualquier día del mes, solo en enero y julio, y solo de lunes a viernes.
