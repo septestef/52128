@@ -14,11 +14,16 @@ Este programa analiza expresiones de cron usando ANTLR4 y Node.js. Realiza anál
 ## Instalación
 
 1. **Clona o descarga este repositorio.**
-2. Abre una terminal en la carpeta del proyecto.
-3. Instala las dependencias ejecutando:
+   git clone https://github.com/septestef/52128.git
+2.Cambia al directorio del proyecto:
+   cd 52128/Analizador
+3. Abre una terminal en la carpeta del proyecto.
+4. Instala las dependencias ejecutando:
 
    ```sh
    npm install
+5. Para abrir el proyecto en VS Code escribe esto en la terminal:
+   code .
 
 ---
 
